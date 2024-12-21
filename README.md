@@ -5,7 +5,7 @@ an OpenGL project that will simulate the solar system using c++
 3D Solar System Simulator (using OpenGL & C++)
 
 ## Screenshot
-![Solar System](https://github.com/mnky729/SolarSystem/blob/master/screenshot/solaysystem1.jpg)
+![Solar System](https://github.com/mnky729/SolarSystem/blob/main/screenshot/solarsystem1.jpg)
 
 ## Dependencies
 * [OpenGL](https://www.opengl.org/)
